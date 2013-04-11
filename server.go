@@ -1,3 +1,5 @@
+// Angello Lite is the example from chapter 2 of "AngularJS in Action."
+// According to the book, "Angello is an agile software project board."
 package main
 
 import (
